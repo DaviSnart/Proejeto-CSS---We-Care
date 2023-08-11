@@ -61,12 +61,12 @@ p {
     width: 550px;
 }
 .second-button {
-    width: 239px;
+    width: 240px;
     height: 64px;
     color: #000;
     font-size: 28px;
     font-weight: 700;
-    border-radius: 25.5px;
+    border-radius: 25.50px;
     background: #ADFF00;
     border: none;
     cursor: pointer;
