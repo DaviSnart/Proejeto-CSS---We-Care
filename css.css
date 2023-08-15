@@ -32,12 +32,12 @@ header{
 
 img {
     display: inline-block;
-    margin-left: 125px;
-    margin-top: 144px;
+    margin-left: 124px;
+    margin-top: 143px;
 }
 div {
     display: inline-block;
-    margin-left: 86px;
+    margin-left: 85px;
     text-align:left;
 
     
@@ -50,7 +50,7 @@ h1{
 }
 h3{
     color: #515151;
-    font-size: 58px;
+    font-size: 59px;
     font-weight: 500;
     margin-bottom: 20px;
 }
