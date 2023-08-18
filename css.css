@@ -37,7 +37,7 @@ img {
 }
 div {
     display: inline-block;
-    margin-left: 85px;
+    margin-left: 84px;
     text-align:left;
 
     
@@ -80,6 +80,7 @@ p {
         margin: auto;
         padding-left: 14px;
         padding-top: 144px;
+        text-align: center;
     }
     header {
         display: none;
