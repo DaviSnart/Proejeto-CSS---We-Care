@@ -8,5 +8,7 @@
 - HTML
 <br>
 - CSS
-<img src="https://github.com/DaviSnart/we-care/blob/Master/Captura%20de%20tela%202023-08-18%20113923.png?raw=truehttps://github.com/DaviSnart/we-care/blob/Master/Captura%20de%20tela%202023-08-18%20113923.png?raw=true" />
+<img src="https://github.com/DaviSnart/we-care/blob/Master/Captura%20de%20tela%202023-08-18%20113923.png?raw=truehttps://github.com/DaviSnart/we-care/blob/Master/Captura%20de%20tela%202023-08-18%20113923.png?raw=true" alt="imagem-wecare-celular" display: inline-block;/>
+
+<img src="https://github.com/DaviSnart/we-care/blob/Master/Captura%20de%20tela%202023-08-18%20113449.png?raw=true" alt="imagem-pc-wecare" />
 
